@@ -1,5 +1,5 @@
 # DockerMastery101
-Master on Docker by learning from Basics
+Become Master on Docker by learning from Basics :)
 
 # Docker Mastery 101: Getting Started with Docker
 
